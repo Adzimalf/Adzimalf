@@ -69,16 +69,19 @@ Saya adalah seorang **Front-End Developer** yang fokus pada pengembangan UI mode
 
 ---
 
-## 🔍 Aktivitas Repositori
+## 📊 Aktivitas Repositori
 
-
-![Kontributor](https://img.shields.io/github/contributors/Adzimalf/github-readme-stats)
-![Ukuran Repo](https://img.shields.io/github/repo-size/Adzimalf/github-readme-stats)
-![Fork](https://img.shields.io/github/forks/Adzimalf/github-readme-stats)
-![Bintang](https://img.shields.io/github/stars/Adzimalf/github-readme-stats)
-![Isu Terbuka](https://img.shields.io/github/issues/Adzimalf/github-readme-stats)
-![Lisensi](https://img.shields.io/github/license/Adzimalf/github-readme-stats)
-![Commit Terakhir](https://img.shields.io/github/last-commit/Adzimalf/github-readme-stats)
+![Kontributor](https://img.shields.io/github/contributors/Adzimalf/github-readme-stats?style=for-the-badge)
+![Ukuran Repo](https://img.shields.io/github/repo-size/Adzimalf/github-readme-stats?style=for-the-badge)
+![Fork](https://img.shields.io/github/forks/Adzimalf/github-readme-stats?style=for-the-badge)
+![Bintang](https://img.shields.io/github/stars/Adzimalf/github-readme-stats?style=for-the-badge)
+![Isu Terbuka](https://img.shields.io/github/issues/Adzimalf/github-readme-stats?style=for-the-badge)
+![Lisensi](https://img.shields.io/github/license/Adzimalf/github-readme-stats?style=for-the-badge)
+![Commit Terakhir](https://img.shields.io/github/last-commit/Adzimalf/github-readme-stats?style=for-the-badge)
+![Release Terbaru](https://img.shields.io/github/v/release/Adzimalf/github-readme-stats?style=for-the-badge)
+![Status CI/CD](https://img.shields.io/github/actions/workflow/status/Adzimalf/github-readme-stats/ci.yml?branch=main&style=for-the-badge)
+![Bahasa Utama](https://img.shields.io/github/languages/top/Adzimalf/github-readme-stats?style=for-the-badge)
+![Pengunjung](https://komarev.com/ghpvc/?username=Adzimalf&label=Pengunjung&color=blue&style=for-the-badge)
 
 ---
 
