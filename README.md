@@ -84,7 +84,7 @@ Saya adalah seorang **Front-End Developer** yang fokus pada pengembangan UI mode
 
 ## 🐍 Jejak Kontribusi
 
-![GitHub Snake](https://raw.githubusercontent.com/Adzimalf/Adzimalf/output/github-contribution-grid-snake.svg))
+![GitHub Snake](https://raw.githubusercontent.com/Adzimalf/Adzimalf/output/github-contribution-grid-snake.svg)
 <!-- retry snake -->
 ---
 
