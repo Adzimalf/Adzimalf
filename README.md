@@ -43,13 +43,13 @@ Saya adalah seorang **Front-End Developer** yang fokus pada pengembangan UI mode
 
 ## 📊 Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adzim&show_icons=true&theme=radical&hide_border=true&border_radius=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adzimalf&show_icons=true&theme=radical&hide_border=true&border_radius=8)
 
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=Adzim&layout=compact&theme=radical&hide_border=true&border_radius=8)
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=Adzimalf&layout=compact&theme=radical&hide_border=true&border_radius=8)
 
-![Streak Koding](https://streak-stats.demolab.com?user=Adzim&theme=radical&hide_border=true&border_radius=8)
+![Streak Koding](https://streak-stats.demolab.com?user=Adzimalf&theme=radical&hide_border=true&border_radius=8)
 
-![Piala GitHub](https://github-profile-trophy.vercel.app/?username=Adzim&theme=algolia&no-frame=true&margin-w=10&row=1)
+![Piala GitHub](https://github-profile-trophy.vercel.app/?username=Adzimalf&theme=algolia&no-frame=true&margin-w=10&row=1)
 
 ---
 
@@ -71,25 +71,25 @@ Saya adalah seorang **Front-End Developer** yang fokus pada pengembangan UI mode
 
 ## 🔍 Aktivitas Repositori
 
-![Status Build](https://github.com/Adzim/github-readme-stats/actions/workflows/test.yml/badge.svg)
-![Kontributor](https://img.shields.io/github/contributors/Adzim/github-readme-stats)
-![Ukuran Repo](https://img.shields.io/github/repo-size/Adzim/github-readme-stats)
-![Fork](https://img.shields.io/github/forks/Adzim/github-readme-stats)
-![Bintang](https://img.shields.io/github/stars/Adzim/github-readme-stats)
-![Isu Terbuka](https://img.shields.io/github/issues/Adzim/github-readme-stats)
-![Lisensi](https://img.shields.io/github/license/Adzim/github-readme-stats)
-![Commit Terakhir](https://img.shields.io/github/last-commit/Adzim/github-readme-stats)
+![Status Build](https://github.com/Adzimalf/github-readme-stats/actions/workflows/test.yml/badge.svg)
+![Kontributor](https://img.shields.io/github/contributors/Adzimalf/github-readme-stats)
+![Ukuran Repo](https://img.shields.io/github/repo-size/Adzimalf/github-readme-stats)
+![Fork](https://img.shields.io/github/forks/Adzimalf/github-readme-stats)
+![Bintang](https://img.shields.io/github/stars/Adzimalf/github-readme-stats)
+![Isu Terbuka](https://img.shields.io/github/issues/Adzimalf/github-readme-stats)
+![Lisensi](https://img.shields.io/github/license/Adzimalf/github-readme-stats)
+![Commit Terakhir](https://img.shields.io/github/last-commit/Adzimalf/github-readme-stats)
 
 ---
 
 ## 🐍 Jejak Kontribusi
 
-![GitHub Snake](https://raw.githubusercontent.com/Adzim/Adzim/output/github-contribution-grid-snake.svg))
+![GitHub Snake](https://raw.githubusercontent.com/Adzim/Adzimalf/output/github-contribution-grid-snake.svg))
 
 ---
 
 ## 👁️‍🗨️ Jumlah Pengunjung
 
-![Jumlah Pengunjung](https://komarev.com/ghpvc/?username=Adzim&style=flat-square&color=blueviolet)
+![Jumlah Pengunjung](https://komarev.com/ghpvc/?username=Adzimalf&style=flat-square&color=blueviolet)
 
 ---
