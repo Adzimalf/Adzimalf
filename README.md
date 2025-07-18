@@ -71,7 +71,7 @@ Saya adalah seorang **Front-End Developer** yang fokus pada pengembangan UI mode
 
 ## 🔍 Aktivitas Repositori
 
-![Status Build](https://github.com/Adzimalf/github-readme-stats/actions/workflows/test.yml/badge.svg)
+
 ![Kontributor](https://img.shields.io/github/contributors/Adzimalf/github-readme-stats)
 ![Ukuran Repo](https://img.shields.io/github/repo-size/Adzimalf/github-readme-stats)
 ![Fork](https://img.shields.io/github/forks/Adzimalf/github-readme-stats)
