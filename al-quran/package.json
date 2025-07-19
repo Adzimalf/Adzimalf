@@ -1,0 +1,14 @@
+{
+  "name": "quran-api",
+  "version": "1.0.0",
+  "description": "API Al-Qur'an sederhana menggunakan Node.js dan Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Adzim Al-farizi <adzimalf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
